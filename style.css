@@ -116,12 +116,12 @@ h1 {
 }
 .ldp{
   background-color: white;
-  width: 190px;
+  width: 165px;
   height: 90px;
 }
 .syl{
   background-color: white;
-  width: 190px;
+  width: 165px;
    height: 90px;
 }
 @media screen and (max-width:576px) {
@@ -131,7 +131,7 @@ h1 {
   }
   .notes{
     background-color: white;
-    width:190px;
+    width:165px;
     /* width: 50%; */
   }
 }
